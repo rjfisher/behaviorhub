@@ -1,1 +1,0 @@
-# The Behavior Hub, LLC
