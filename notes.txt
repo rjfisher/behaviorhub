@@ -1,0 +1,7 @@
+Behavior Hub Notes
+
+Images for 'portfolio' items.
+
+Services -> fa-comment
+Team -> fa-id-card-o
+Documents -> fa-file-text-o
