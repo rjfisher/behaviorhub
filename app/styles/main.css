@@ -235,6 +235,7 @@ header.masthead .intro-text .skills {
 .hoz-center {
   width: 50%;
   margin: 0 auto;
+  text-align: -webkit-center;
 }
 
 .paragraph {
